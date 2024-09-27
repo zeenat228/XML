@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<!-- Head -->
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/../../images/favicon.ico" rel="contents">
+    <title>MC ITI Web Certification Program</title>
+    <link rel="stylesheet" type="text/css" href="/../../css/w3.css">
+</head>
+    
+<!-- Body -->
+<body>
+<div class="w3-row w3-container w3-margin-top w3-center">
+	<h1 class="w3-jumbo w3-text-white"><span class="w3-padding" style="background-color: #51237F;"><b>MC ITI</b></span></h1>
+<!--	<h1 class="w3-xxxlarge w3-text-black"><b>Web Certification Programs</b></h1>
+	<h2 class="w3-xxlarge w3-text-black"><b>Front-End Certification Program</b></h2>-->
+	<h2 class="w3-xlarge w3-text-black"><b>XML Example<br>Change Element Text</b></h2>
+</div>
+
+<div class="w3-row w3-container w3-margin-top w3-center">
+	<p id="demo"></p>
+
+      <script>
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+              myFunction(this);
+          }
+      };
+      xhttp.open("GET", "music.xml", true);
+      xhttp.send();
+
+      function myFunction(xml) {
+          var xmlDoc = xml.responseXML;
+          var x;    
+          var txt = "";
+          x = xmlDoc.getElementsByTagName("title")[0].childNodes[0];
+          txt += x.nodeValue + "<br>";    
+          x.nodeValue = "Dynamite";
+          x = xmlDoc.getElementsByTagName("item")[0].childNodes[0];
+          txt += x.nodeValue + "<br>";    
+          document.getElementById("demo").innerHTML = txt;
+      }
+      </script>
+    
+    <p>&nbsp;</p>
+    </div>
+</body>
+	
+<!-- Footer -->
+<footer class="w3-center w3-padding-16 w3-text-white" style="background-color: #51237F;">
+	<p class="w3-center">
+        <script>
+            var today = new Date();
+            document.write("&copy;&nbsp;");
+            document.write(today.getFullYear());
+            document.write("&nbsp;MC ITI Web Certification, 51 Mannakee Street, Rockville, MD 20850")
+        </script>
+    </p>
+</footer>
+</html>

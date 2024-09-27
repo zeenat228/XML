@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<playlist>
+ <item>
+	    <title>Cruel Summer</title>
+		<singer>Taylor Swift</singer>
+		<album>love</album>
+		<kind>mp3</kind>
+		<publishTime>23</publishTime>
+		<month>August</month>
+        <year>2019</year>
+        <category>Women</category>
+        <genre>Pop</genre>
+	</item>
+	
+  <item>
+	    <title>You Belong With Me</title>
+		<singer>Taylor Swift</singer>
+		<album>Fearless</album>
+		<kind>mp3</kind>
+		<publishingDate>11</publishingDate>
+		<month>November</month>
+        <year>2008</year>
+        <category>Woman</category>
+        <genre>Romantic</genre>
+	</item>
+	
+  <item>
+	<title>Love story</title>
+		<singer>Tylor Swift</singer>
+		<album>Fearless</album>
+		<kind>mp3</kind>
+		<publishingDate>11</publishingDate>
+		<month>November</month>
+        <year>2008</year>
+        <category>Woman</category>
+        <genre>Love</genre>
+	</item>
+	
+   <item>
+	    <title>Blank Space</title>
+		<singer>Tylor Swift</singer>
+		<album>1989</album>
+		<kind>mp3</kind>
+		<publishingDate>5</publishingDate>
+		<month>June</month>
+        <year>2014</year>
+        <category>Woman</category>
+        <genre>Sad</genre>
+	</item>
+
+</playlist>

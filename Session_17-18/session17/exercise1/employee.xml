@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<employee_list>
+	<person1>
+		<department>PRESIDENT</department>
+		<name>Jim Bigman</name>
+		<email>Bigman@TLSales.com</email>
+		<phone>1 800 123-3435</phone>
+	</person1>
+	<person2>
+		<department>CUSTOMER SERVICE</department>
+		<name>Nancy Nice</name>
+		<email>Nice@TLSales.com</email>
+		<phone>1 800 123-8900</phone>
+	</person2>
+	<person3>
+		<department>SALES</department>
+		<name>Jim Sleek</name>
+		<email>JSleek@TLSales.com</email>
+		<phone>1 800 123-4567</phone>
+	</person3>
+	<person4>
+		<department>SALES</department>
+		<name>Anna Gold</name>
+		<email>AGold@TLSales.com</email>
+		<phone>1 800 123-4567</phone>
+	</person4>
+	<person5>
+		<department>SALES</department>
+		<name>Terry White</name>
+		<email>TWhite@TLSales.com</email>
+		<phone>1 800 123-4567</phone>
+	</person5>
+	<person6>
+		<department>SALES</department>
+		<name>John Smith</name>
+		<email>JSmith@TLSales.com</email>
+		<phone>1 800 123-4567</phone>
+	</person6>
+	<person7>
+		<department>SALES</department>
+		<name>Anita Brown</name>
+		<email>ABrown@TLSales.com></email>
+		<phone>1 800 123-4567</phone>
+	</person7>
+</employee_list>

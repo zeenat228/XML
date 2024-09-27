@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist>
+	<item>
+		<title>Butter</title>
+		<album>Proof</album>
+		<country>Korea</country>
+		<kind>mp3</kind>
+		<singer>BTS</singer>
+		<release_time>10 June, 2022</release_time>
+		<label>big hit</label>
+		<category>Boy brand</category>
+		<genre>Hip-hop</genre>
+	</item>
+	<item>
+		<title>Dynamite</title>
+		<album>Be</album>
+		<country>Korea</country>
+		<kind>mp3</kind>
+		<singer>BTS</singer>
+		<release_time>November 20, 2020</release_time>
+		<label>Big hit entertainment</label>
+		<category>Boy brand</category>
+		<genre>Pop music</genre>
+	</item>
+	<item>
+		<title>Permission to Dance</title>
+		<album>R and B Remix</album>
+		<country>Korea</country>
+		<kind>mp3</kind>
+		<singer>BTS</singer>
+		<release_time>July 23, 2021</release_time>
+		<label>big hit</label>
+		<category>Boy brand</category>
+		<genre> K-pop, Korean Dance</genre>
+	</item>
+	<item>
+		<title>Fake Love</title>
+		<album>Love yourself:Tear</album>
+		<country>Korea</country>
+		<kind>mp3</kind>
+		<singer>BTS</singer>
+		<release_time>May 18, 2018</release_time>
+		<label>big hit, Iriver</label>
+		<category>Boy brand</category>
+		<genre>Korean Dance, K-Pop, Hip-Hop/Rap</genre>
+	</item>
+</playlist>
